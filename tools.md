@@ -23,3 +23,11 @@ Get started with R Statistics. In the blog I will share my current work and othe
 
 * [**Enhance your writing skills!**](http://wwww.merriam-webster.com)<br>
 Remember to build on your writing skills every day.
+
+### Effective literature search
+
+The volume of publications has become extensive. The most important reasons to do an effective literature search:
+
+* Synthesis of evidence supports your background and conclusions.
+* Define our keywords
+* Use a [**reference program**](http://mendeley.com) like this.
