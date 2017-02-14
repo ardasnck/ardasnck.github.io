@@ -3,7 +3,7 @@ description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              //andersschmidt.github.io
 #http://localhost:5000
-https://www.andersschmidt.github.io
+#https://www.andersschmidt.github.io
 #disqus_shortname: jponttuset
 
 # Owner/author information
