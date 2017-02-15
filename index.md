@@ -12,4 +12,4 @@ image:
 Cardioversion efficacy using pulsed biphasic or biphasic truncated expontential waveforms has just been published in [**JAHA: Journal of the Americian Heart Asssociation**](http://jaha.ahajournals.org/)!
 
 * **09-02-2017 Lecture: Stay motivated!** <br>
-I held a lecture on motivation behind a research carrier for undergraduate medical students, Aarhus University. Slides can be found [**here** (Danish).](https://www.dropbox.com/s/zmhe0xyoxxnd7i5/Forskning_7_sem.pdf?dl=0)
+I held a lecture on motivation behind a research carrier for undergraduate medical students, Aarhus University. 
