@@ -1,6 +1,6 @@
 ---
 layout: page2
-title: The CHESS study
+title: Comparison of High Versus Escalating Shocks in Cardioverting Atrial Fibrillation (CHESS)
 permalink: /chess/
 description: "CHESS Study"
 tags: [Jekyll, theme, responsive, blog, template]
@@ -10,4 +10,5 @@ image:
 **Resent project updates**
 
 * **09-02-2017 Fifty patients included!** <br>
-Hallo!
+
+[**ClinicalTrials.gov**](//)
