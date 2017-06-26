@@ -9,6 +9,9 @@ image:
 ---
 **Resent project updates**
 
+* **28-06-2017 100 patients included!**<br>
+With the support from deparment clinicians the study has now reached 100 included patients! A milestone - and a nice finish before the summer!
+
 * **09-02-2017 Fifty patients included!** <br>
 
-[**ClinicalTrials.gov**](//)
+[**ClinicalTrials.gov**](/https://clinicaltrials.gov/show/NCT02923414/)
