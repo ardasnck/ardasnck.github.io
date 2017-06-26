@@ -5,7 +5,7 @@ permalink: /chess/
 description: "CHESS Study"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: mountain.png
+  feature:
 ---
 **Resent project updates**
 
