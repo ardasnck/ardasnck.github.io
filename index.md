@@ -4,9 +4,13 @@ title: Welcome!
 description: "Anders Schmidt's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: snow.banner.jpg
+  feature: banner1.png
 ---
 **My recent activities**
+
+* **20-06-2017 Press release: Cardioversion efficacy study**
+Our study in JAHA recieved some media exposure.  
+
 * **28-02-2017 A Killer Presentation** <br>
 I hosted at a lecture at Society for Student Medical Research Society about the good research presentation.
 
