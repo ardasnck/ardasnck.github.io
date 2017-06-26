@@ -4,7 +4,11 @@ title: Welcome!
 description: "Anders Schmidt's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
+<<<<<<< HEAD
   feature: banner1.png
+=======
+  feature: banner1.jpg
+>>>>>>> origin/master
 ---
 **My recent activities**
 

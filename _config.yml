@@ -11,7 +11,11 @@ owner:
   name:           Anders Schmidt
   avatar:         anders.doc.png
   bio:            MD/PhD-candidate.
+<<<<<<< HEAD
                   Health research; Exploring science from a clinical cardiology point of view. Having fun using R Statistics for data analysis and viz.
+=======
+                  Health research : Exploring science from a clinical cardiology point of view. Having fun using R Statistics for data analysis and viz.
+>>>>>>> origin/master
   email:          as@clin.au.dk
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: anders_schmidt
