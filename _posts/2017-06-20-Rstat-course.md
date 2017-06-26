@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First impressions: Teaching basic R stats"
-description: "How do we efficiently teach R to newbees?"
+description: "How do we efficiently teach R ?"
 comments: false
 ---
 

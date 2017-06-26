@@ -1,4 +1,4 @@
-title:            Anders Schmidt
+title:
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              //andersschmidt.github.io
@@ -8,9 +8,9 @@ url:              //andersschmidt.github.io
 
 # Owner/author information
 owner:
-  name:           Anders Schmidt
+  name:           Anders Sjørslev Schmidt
   avatar:         anders.doc.png
-  bio:            MD/PhD-candidate. Health research. Exploring science from a clinical cardiology point of view. Having fun using R Statistics for data analysis and viz.
+  bio:            MD/PhD-candidate. Health research, clinical cardiology. Having fun using R Statistics for data analysis and visualization.
   email:          as@clin.au.dk
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
