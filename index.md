@@ -4,7 +4,7 @@ title: Welcome!
 description: "Anders Schmidt's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: snow.banner.jpg
+  feature: banner1.jpg
 ---
 **My recent activities**
 * **28-02-2017 A Killer Presentation** <br>
