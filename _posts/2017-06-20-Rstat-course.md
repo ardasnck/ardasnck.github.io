@@ -6,10 +6,10 @@ comments: false
 ---
 
 For a while I have been interested in sharing some of the basic functionalities when using R for data science with my fellow research colleges. I decided to go for it, at prepare a basic workshop in R. The course was prepared in collaboration with my fellow college, PhD-candidate [Emil Tveden Bjerglund](https://github.com/emiltb).
-
+<br>
 The workshop outline covered:
 
-1. ”The R-Safari”.
+1. ”The R-Safari” - basic computations in **R**
 2. Simple mutations of a dataset using **Dplyr**
 3. ”Show me data” – plotting with **ggplot**
 4. Load and ”wrangle” of datasets
