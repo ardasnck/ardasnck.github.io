@@ -109,9 +109,6 @@ A basic example using the build-in dataset `iris` which contains information on 
 
 Firstly, assign a new emty **ggplot** to an element (e.g. called `p1`), and modify the plot. This is a basic example - try to explore different geom's, however note that the may depend on setting the aes() corretly, as a histogram only takes one variable (no y-axis) etc.
 
-
-
-
 ```r
 library(tidyverse) #Be sure, that the tidyverse environment is loaded
 p1 <- ggplot() #Create a new element and assign a ggplot
@@ -123,14 +120,11 @@ p1 <- iris %>%
 
 p1 #View your work by calling the element name, in this example 'p1'.                      
 ```
+![](/images/p1.png)
 
 ```
 ## `stat_bin()` using `bins = 30`. Pick better value with `binwidth`.
 ```
-
-![](R_notes_files/figure-html/unnamed-chunk-3-1.png)<!-- -->
-
-![](/R/iris.png)
 
 Below, another example using the build-in dataset `mtcars`. Explore the variables yourself by writing `?mtcars` in the console.
 
@@ -149,7 +143,7 @@ p2
 ## `geom_smooth()` using method = 'loess'
 ```
 
-![](R_notes_files/figure-html/unnamed-chunk-4-1.png)<!-- -->
+![](/images/p2.png)
 
 Note how the plot developed through: Data -> aes() -> geom() -> stat_() -> theme_() ...
 
