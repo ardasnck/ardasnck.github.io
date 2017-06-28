@@ -4,19 +4,27 @@ title: "First impressions: Teaching basic R stats"
 description: "How do we efficiently teach R ?"
 comments: false
 ---
+#**How do we efficiently teach R ?"**
+Recently, teaching *R* has become a burning question, as the use of *R* for statistical computing is growing rapidly. Beyond the nature of an open-source platform, the magnitude of packages available for specific data analyses is massive. Also the extensive online support at e.g. ![Stack-overflow](https://stackoverflow.com) and the possibilities for creating own packages drive researchers to *R*.
 
-For a while I have been interested in sharing some of the basic functionalities when using R for data science with my fellow research colleges. I decided to go for it, at prepare a basic workshop in R. The course was prepared in collaboration with my fellow college, PhD-candidate [Emil Tveden Bjerglund](https://github.com/emiltb).
+However, locally at Aarhus University no formal courses, lectures or workshops are held to fascilitate the use of *R*. For a while I have been interested in sharing some of the basic  concepts using R for data science with my fellow research colleges. I decided to go for it, prepare a basic workshop in *R*, although I do not have any previous experience in teaching statistics. The course was prepared in collaboration with my fellow college, PhD-candidate [Emil Tveden Bjerglund](https://github.com/emiltb). The workshop was designed as a interdisciplinary course with attendents from the faculty of Health, Clinical Medicine, and faculty of Science and Technology, Nanoscience.
+
+<br>
 <br>
 The workshop outline covered:
 
-1. ”The R-Safari” - basic computations in **R**
+1. ”The R-Safari” - basic computations in *R*
 2. Simple mutations of a dataset using **Dplyr**
 3. ”Show me data” – plotting with **ggplot**
-4. Load and ”wrangle” of datasets
+4. Load and ”wrangle” of datasets - play with your own data.
+<br>
+<br>
 
-To activate the students Emil build a small learning environment, which was loaded through the learnr package: [rbeginner](https://github.com/emiltb/rbeginner). Although some students struggled installing R and loading the dependencies the overall experience was, that this approach is useful for R-fisttimers.
+To activate the students we found it usefull to build a small learning environment, which was loaded through the `learnr` package: [rbeginner](https://github.com/emiltb/rbeginner). Although some students struggled installing or updating R and loading the dependencies.
 
-Below some notes from the course:
+>Conclusion: Learnr tutorials loaded through R can be useful during a course, but depends on the local settings, i.e. students own hardware. We recommend using the environment on a server to avoid loading difficulties.
+
+##1. "The R safari"
 
 ## On data frames and tidy data
 Often we have some data, where for each observation we have recorded several values of interest. The most straight-forward way to store such data is in a data-frame (or a tibble as it is also called). The data can be stored in a *tidy* format as illustrated below for the easiest access and manipulation.
@@ -105,7 +113,7 @@ diamonds
 ## On data visualization using ggplot
 The packages `ggplot2` is a part of the so called `tidyverse` package-environment. Using this Grammar of Graphics can be a little more time consuming in the beginning, when learning the syntax - however the reward is considerable, as you will be able to effectively edit a plot and make it **reproduceable**.
 
-A basic example using the build-in dataset `iris` which contains information on different species of the iris-flower (figure 1).
+A basic example using the build-in dataset `iris` which contains information on different species of the iris-flower.
 
 Firstly, assign a new emty **ggplot** to an element (e.g. called `p1`), and modify the plot. This is a basic example - try to explore different geom's, however note that the may depend on setting the aes() corretly, as a histogram only takes one variable (no y-axis) etc.
 
