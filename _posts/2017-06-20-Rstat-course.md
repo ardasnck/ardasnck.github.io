@@ -25,8 +25,9 @@ To activate the students we found it usefull to build a small learning environme
 >Conclusion: Learnr tutorials loaded through R can be useful during a course, but depends on the local settings, i.e. students own hardware. We recommend using the environment on a server to avoid loading difficulties.
 
 ##1. "The R safari"
+It felt reasonable starting out by stating that *R* is basically an advanced calculator, and how vectors and assigning works. This familiarizing step was accomplished through the hands-on learning environment.
 
-## On data frames and tidy data
+## 2. Simple mutations and **dplyr**
 Often we have some data, where for each observation we have recorded several values of interest. The most straight-forward way to store such data is in a data-frame (or a tibble as it is also called). The data can be stored in a *tidy* format as illustrated below for the easiest access and manipulation.
 
 There are three interrelated rules which make a dataset tidy:
@@ -110,7 +111,7 @@ diamonds
 ## # ... with 53,930 more rows
 ```
 
-## On data visualization using ggplot
+## 3. ”Show me data” – plotting with **ggplot**
 The packages `ggplot2` is a part of the so called `tidyverse` package-environment. Using this Grammar of Graphics can be a little more time consuming in the beginning, when learning the syntax - however the reward is considerable, as you will be able to effectively edit a plot and make it **reproduceable**.
 
 A basic example using the build-in dataset `iris` which contains information on different species of the iris-flower.
@@ -229,7 +230,7 @@ iris %>%
 
 ##Misc shortcuts and other things nice-to-know
 
-**Ctrl (mac: command) + l** = clear console
-`rm(list = ls())` = clear environment / workspace and loaded datasets and variables
-**Ctrl+shift+m** = insert pipe-operator, %>%.
+**Ctrl (mac: command) + l** = clear console <br>
+`rm(list = ls())` = clear environment / workspace and loaded datasets and variables <br>
+**Ctrl+shift+m** = insert pipe-operator, %>%. <br>
 **Ctrl+shift+p** = re-run the most recent code again (view changes to highligthed code)
