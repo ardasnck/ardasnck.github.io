@@ -4,10 +4,12 @@ title: "First impressions: Teaching basic R stats"
 description: "How do we efficiently teach R ?"
 comments: false
 ---
-#**How do we efficiently teach R ?"**
-Recently, teaching *R* has become a burning question, as the use of *R* for statistical computing is growing rapidly. Beyond the nature of an open-source platform, the magnitude of packages available for specific data analyses is massive. Also the extensive online support at e.g. ![Stack-overflow](https://stackoverflow.com) and the possibilities for creating own packages drive researchers to *R*.
+## How do we efficiently teach R?
+How to efficiently teach *R* has recently become a burning question, as the use of *R* for statistical computing is growing rapidly. Beyond the nature of an open-source platform, the magnitude of packages available for specific data analyses is massive. Also the extensive online support at e.g. [Stack-overflow](/https://wwww.stackoverflow.com) and the possibilities for creating own packages drive researchers to *R*.
 
-However, locally at Aarhus University no formal courses, lectures or workshops are held to fascilitate the use of *R*. For a while I have been interested in sharing some of the basic  concepts using R for data science with my fellow research colleges. I decided to go for it, prepare a basic workshop in *R*, although I do not have any previous experience in teaching statistics. The course was prepared in collaboration with my fellow college, PhD-candidate [Emil Tveden Bjerglund](https://github.com/emiltb). The workshop was designed as a interdisciplinary course with attendents from the faculty of Health, Clinical Medicine, and faculty of Science and Technology, Nanoscience.
+>The need for efficent data analysis and tools in R is there, but how do we teach R to students, who have no or very limmited experience with coding and statistics in general?
+
+Locally at Aarhus University there is no formal courses, lectures or workshops to fascilitate the use of *R* for students outside Mathematics or Statistics Deparments. For a while I have been interested in sharing some of the basic  concepts using R for data science with my fellow research colleges. I decided to go for it, prepare a basic workshop in *R*, although I do not have any previous experience in teaching statistics. The course was prepared in collaboration with my fellow college, PhD-candidate [Emil Tveden Bjerglund](https://github.com/emiltb). The workshop was designed as a interdisciplinary course with attendents from the faculty of Health, Clinical Medicine, and faculty of Science and Technology, Nanoscience.
 
 <br>
 <br>
@@ -15,17 +17,21 @@ The workshop outline covered:
 
 1. ”The R-Safari” - basic computations in *R*
 2. Simple mutations of a dataset using **Dplyr**
-3. ”Show me data” – plotting with **ggplot**
+3. ”Show me data” – plotting with **ggplot2**
 4. Load and ”wrangle” of datasets - play with your own data.
 <br>
 <br>
 
+## The `learnr` package
+
 To activate the students we found it usefull to build a small learning environment, which was loaded through the `learnr` package: [rbeginner](https://github.com/emiltb/rbeginner). Although some students struggled installing or updating R and loading the dependencies.
 
->Conclusion: Learnr tutorials loaded through R can be useful during a course, but depends on the local settings, i.e. students own hardware. We recommend using the environment on a server to avoid loading difficulties.
+>Conclusion: Learnr tutorials is very useful! Avoid local installing for first-time user of R. The setup of R can be extremely difficult for the first-time user.
 
-##1. "The R safari"
+## 1. "The R safari"
 It felt reasonable starting out by stating that *R* is basically an advanced calculator, and how vectors and assigning works. This familiarizing step was accomplished through the hands-on learning environment.
+
+>following the short introduction we headed directly for functions in **tidyverse** ecosystem.
 
 ## 2. Simple mutations and **dplyr**
 Often we have some data, where for each observation we have recorded several values of interest. The most straight-forward way to store such data is in a data-frame (or a tibble as it is also called). The data can be stored in a *tidy* format as illustrated below for the easiest access and manipulation.
@@ -131,7 +137,7 @@ p1 #View your work by calling the element name, in this example 'p1'.
 ```
 ![](/images/p1.png)
 
-```
+  ```
 ## `stat_bin()` using `bins = 30`. Pick better value with `binwidth`.
 ```
 
@@ -227,10 +233,5 @@ iris %>%
 ## 9          7.7         3.0          6.1         2.3 virginica
 ```
 
-
-##Misc shortcuts and other things nice-to-know
-
-**Ctrl (mac: command) + l** = clear console <br>
-`rm(list = ls())` = clear environment / workspace and loaded datasets and variables <br>
-**Ctrl+shift+m** = insert pipe-operator, %>%. <br>
-**Ctrl+shift+p** = re-run the most recent code again (view changes to highligthed code)
+## Moving forward
+This fist step has provided insightfull knowledge in creating *R* workshops, howvever many things needs to be improved. The focus will be on moving to a *R* server platform, optimizing the time to first resonable **ggplot** to keep up motivation. Also, extending with *GitHub* and some basic markdown is on the list.
