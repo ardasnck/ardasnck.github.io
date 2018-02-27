@@ -8,7 +8,7 @@ image: banner1.png
 **My recent activities**
 
 * **19-02-2018 One paper is accepted to CVPR 2018** <br>
-"Learning to Localize Sound Source in Visual Scenes" is accepted to CVPR2018, Salt Lake City.
+<font color="red">"Learning to Localize Sound Source in Visual Scenes"</font> is accepted to CVPR2018, Salt Lake City.
 
 * **28-02-2017 A Killer Presentation** <br>
 I hosted at a lecture at Society for Student Medical Research Society about the good research presentation.
