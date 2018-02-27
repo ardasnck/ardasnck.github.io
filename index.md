@@ -7,7 +7,7 @@ image: banner1.png
 ---
 **My recent activities**
 
-* **03-07-2017 UseR! 2017 - Brussels**
+* **03-07-2017 UseR! 2017 - Salt Lake**
 Very excited to attend the 2017 UseR! conference in Brussels.
 
 * **28-02-2017 A Killer Presentation** <br>
