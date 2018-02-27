@@ -10,7 +10,7 @@ url:              //ardasnck.github.io
 owner:
   name:           Arda Senocak
   avatar:         anders.png
-  bio:            PhD-candidate. Computer Vision, Machine Learning. Having fun using R Statistics for data analysis and visualization.
+  bio:            PhD-candidate @ Robotics and Computer Vision Lab at KAIST.
   email:          arda.senocak@gmail.com
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -18,7 +18,7 @@ owner:
   #linkedin: jponttuset
   #google_scholar: VCBBx24AAAAJ
 #  google_plus: 113718226018314522413
-  github: andersschmidt
+  github: ardasnck
 # Analytics and webmaster tools stuff goes here
 #google_analytics: UA-52736040-1
 #google_verify:
@@ -28,15 +28,15 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Projects
+  - title: About
     url: /chess/
   - title: Curriculum
     url: /cv/
-#  - title: Publications
-#    url: /publications/
-  - title: Tools
+  - title: Publications
+    url: /publications/
+  - title: Projects
     url: /tools/
-  - title: Blog posts
+  - title: Contact
     url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
