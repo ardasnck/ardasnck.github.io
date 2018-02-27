@@ -1,20 +1,20 @@
-title: Data Science & Health
+title: Personal Web Page
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              //ardasnck.github.io
 #http://localhost:5000
-#https://www.andersschmidt.github.io
-#disqus_shortname: jponttuset
+#https://www.ardasnck.github.io
+#disqus_shortname: ardasnck
 
 # Owner/author information
 owner:
   name:           Arda Senocak
   avatar:         anders.png
-  bio:            MD/PhD-candidate. Health research, clinical cardiology. Having fun using R Statistics for data analysis and visualization.
-  email:          as@clin.au.dk
+  bio:            PhD-candidate. Computer Vision, Machine Learning. Having fun using R Statistics for data analysis and visualization.
+  email:          arda.senocak@gmail.com
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: anders_schmidt
+  twitter: ardasnck
   #linkedin: jponttuset
   #google_scholar: VCBBx24AAAAJ
 #  google_plus: 113718226018314522413
