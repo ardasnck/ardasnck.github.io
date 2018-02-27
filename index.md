@@ -1,14 +1,14 @@
 ---
 layout: home2
 title: Welcome!
-description: "Anders Schmidt's website"
+description: "Arda Senocak's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image: banner1.png
 ---
 **My recent activities**
 
-* **03-07-2017 UseR! 2017 - Salt Lake**
-Very excited to attend the 2017 UseR! conference in Brussels.
+* **19-02-2018 One paper is accepted to CVPR 2018** <br>
+"Learning to Localize Sound Source in Visual Scenes" is accepted to CVPR2018, Salt Lake City.
 
 * **28-02-2017 A Killer Presentation** <br>
 I hosted at a lecture at Society for Student Medical Research Society about the good research presentation.
