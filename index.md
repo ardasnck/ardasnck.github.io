@@ -13,7 +13,7 @@ image: banner1.png
 * **14-02-2017 NEW publication:** <br>
 Cardioversion efficacy using pulsed biphasic or biphasic truncated expontential waveforms has just been published in [**JAHA: Journal of the Americian Heart Asssociation**](https://doi.org/10.1161/JAHA.116.004853)!
 
-### Who am I
+**Who am I?**
 
 My name is Lei Mao. I am a master student in the Department of Computer Science at the University of Chicago. My research interests are mainly in the areas of machine learning and artificial intelligence, and partly in the area of data science. 
 
