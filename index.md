@@ -10,8 +10,8 @@ image: banner1.png
 * **19-02-2018 One paper is accepted to CVPR 2018** <br>
 "Learning to Localize Sound Source in Visual Scenes" is accepted to CVPR2018, Salt Lake City.
 
-* **14-02-2017 NEW publication:** <br>
-Cardioversion efficacy using pulsed biphasic or biphasic truncated expontential waveforms has just been published in [**JAHA: Journal of the Americian Heart Asssociation**](https://doi.org/10.1161/JAHA.116.004853)!
+* **10-02-2018 New Website:** <br>
+Finally, my personal page is up and running!
 
 **Who am I?**
 <br />
