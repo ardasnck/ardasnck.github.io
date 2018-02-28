@@ -16,9 +16,9 @@ Cardioversion efficacy using pulsed biphasic or biphasic truncated expontential 
 **Who am I?**
 <br />
 
-I am a Ph.D. candidate in RCV Lab. at Korea Advanced Institute of Science and Technology (KAIST) under the advisement of Prof.In So Kweon. My research interests are in the areas of machine learning and computer vision, with a focus on multi-modal machine learning (audio-visual), deep learning and sports video analysis.
+I am a Ph.D. candidate in <a href="http://mail.rcv.kaist.ac.kr"><b>RCV Lab</b>. at Korea Advanced Institute of Science and Technology (KAIST) under the advisement of Prof.In So Kweon. My research interests are in the areas of machine learning and computer vision, with a focus on multi-modal machine learning (audio-visual), deep learning and sports video analysis.
 
 <br />
 
-Before I start to my Ph.D. at KAIST, I was a Ph.D. candidate in the Department of Computer Science at Stevens Institute of Technology under the supervision of Prof. Philippos Mordohai. I graduated with a Bachelor's degree in Computer Science from KAIST and I also received my Master's Degree from the Electrical Engineering Department of KAIST.
+Before I start to my Ph.D. at KAIST, I was a Ph.D. candidate in the <a href="http://https://www.stevens.edu/schaefer-school-engineering-science/departments/computer-science"><b>Department of Computer Science at Stevens Institute of Technology</b>   under the supervision of <a href="https://www.cs.stevens.edu/~mordohai/index.html"><b>Prof. Philippos Mordohai</b>. I graduated with a Bachelor's degree in Computer Science from KAIST and I also received my Master's Degree from the Electrical Engineering Department of KAIST.
 
