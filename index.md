@@ -11,7 +11,7 @@ image: banner1.png
 <p align="justify">"Learning to Localize Sound Source in Visual Scenes" is accepted to CVPR2018, Salt Lake City.</p>
 
 * **10-02-2018 New Website:** <br>
-<p align="justify">Finally, my personal page is up and running!</p>
+Finally, my personal page is up and running!
 
 **Who am I?**
 <br />
