@@ -1,9 +1,10 @@
 ---
 layout: post-index
 permalink: /blog/
-title: All Posts
+title: Contact Me
 tagline: A List of Posts
 tags: [blog]
 comments: false
 ---
+
 
