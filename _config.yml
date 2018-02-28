@@ -30,8 +30,6 @@ bing_verify:
 # For external links add external: true
 links:
   - title: About
-    url: /chess/
-  - title: Curriculum
     url: /cv/
   - title: Publications
     url: /publications/
