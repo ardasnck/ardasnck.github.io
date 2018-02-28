@@ -15,13 +15,7 @@ Cardioversion efficacy using pulsed biphasic or biphasic truncated expontential 
 
 **Who am I?**
 
-My name is Lei Mao. I am a master student in the Department of Computer Science at the University of Chicago. My research interests are mainly in the areas of machine learning and artificial intelligence, and partly in the area of data science. 
-
+I am a Ph.D. candidate in RCV Lab. at Korea Advanced Institute of Science and Technology (KAIST) under the advisement of Prof.In So Kweon. My research interests are in the areas of machine learning and computer vision, with a focus on multi-modal machine learning (audio-visual), deep learning and sports video analysis. 
 <br />
-
-Before I went to the University of Chicago, I was a PhD candidate in the Department of Biochemistry at Duke University. I also graduated with a bachelor's degree in Biotechnology from Dalian University of Technology in China.
-
-<br />
-
-I am a perfectionist. I want to solve the problems in my hands in perfect ways, which is, however, not achievable in many situations.
+Before I start to my Ph.D. at KAIST, I was a Ph.D. candidate in the Department of Computer Science at Stevens Institute of Technology under the supervision of Prof. Philippos Mordohai. I graduated with a Bachelor's degree in Computer Science from KAIST and I also received my Master's Degree from the Electrical Engineering Department of KAIST.
 
