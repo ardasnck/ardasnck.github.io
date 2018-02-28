@@ -20,5 +20,5 @@ Cardioversion efficacy using pulsed biphasic or biphasic truncated expontential 
 
 <br />
 
-Before I start to my Ph.D. at KAIST, I was a Ph.D. candidate in the <a href="http://https://www.stevens.edu/schaefer-school-engineering-science/departments/computer-science"><b>Department of Computer Science at Stevens Institute of Technology</b></a>   under the supervision of <a href="https://www.cs.stevens.edu/~mordohai/index.html"><b>Prof. Philippos Mordohai</b></a>. I graduated with a Bachelor's degree in Computer Science from KAIST and I also received my Master's Degree from the Electrical Engineering Department of KAIST.
+<p align="justify">Before I start to my Ph.D. at KAIST, I was a Ph.D. candidate in the <a href="http://https://www.stevens.edu/schaefer-school-engineering-science/departments/computer-science"><b>Department of Computer Science at Stevens Institute of Technology</b></a>   under the supervision of <a href="https://www.cs.stevens.edu/~mordohai/index.html"><b>Prof. Philippos Mordohai</b></a>. I graduated with a Bachelor's degree in Computer Science from KAIST and I also received my Master's Degree from the Electrical Engineering Department of KAIST.</p>
 
