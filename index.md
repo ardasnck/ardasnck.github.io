@@ -8,10 +8,10 @@ image: banner1.png
 **My recent activities**
 
 * **19-02-2018 One paper is accepted to CVPR 2018** <br>
-"Learning to Localize Sound Source in Visual Scenes" is accepted to CVPR2018, Salt Lake City.
+<p align="justify">"Learning to Localize Sound Source in Visual Scenes" is accepted to CVPR2018, Salt Lake City.</p>
 
 * **10-02-2018 New Website:** <br>
-Finally, my personal page is up and running!
+<p align="justify">Finally, my personal page is up and running!</p>
 
 **Who am I?**
 <br />
