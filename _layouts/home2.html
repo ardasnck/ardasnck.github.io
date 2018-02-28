@@ -39,13 +39,13 @@
     <div class="article-wrap">
       {{ content }}
 
-      <div id="index">
-          <h1>Recent posts</h1>
-          {% for post in site.posts %}
-              <h3><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
-              <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-          {% endfor %}
-      </div><!-- /#index -->
+      <!-- <div id="index"> -->
+         <!-- <h1>Recent posts</h1>-->
+         <!-- {% for post in site.posts %}-->
+            <!--  <h3><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>-->
+            <!--  <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>-->
+        <!--  {% endfor %}-->
+    <!--  </div><!-- /#index -->
     </div><!-- /.article-wrap -->
     {% if site.disqus_shortname and page.comments %}
       <section id="disqus_thread"></section><!-- /#disqus_thread -->
