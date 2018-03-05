@@ -16,7 +16,7 @@ Finally, my personal page is up and running!
 **Who am I?**
 <br>
 
-<p align="justify">I am a Ph.D. candidate in <a href="http://mail.rcv.kaist.ac.kr"><b>RCV Lab</b></a>. at Korea Advanced Institute of Science and Technology (KAIST) under the advisement of Prof.In So Kweon. My research interests are in the areas of machine learning and computer vision, with a focus on multi-modal machine learning (audio-visual), deep learning and sports video analysis.</p>
+<p align="justify">I am a Ph.D. candidate in <a href="http://rcv.kaist.ac.kr"><b>RCV Lab</b></a>. at Korea Advanced Institute of Science and Technology (KAIST) under the advisement of Prof.In So Kweon. My research interests are in the areas of machine learning and computer vision, with a focus on multi-modal machine learning (audio-visual), deep learning and sports video analysis.</p>
 
 <br />
 
