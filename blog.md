@@ -6,27 +6,13 @@ tagline: A List of Posts
 tags: [blog]
 comments: false
 ---
-<div>
-<img id = "signature" src = "{{ site.url }}/images/arda.png">
-<style>
-#signature {
-  display: block;
-  width: 90px;
-  height: auto;
-}
-</style>
-</div>
+### E-mail
+You can reach me at 
 
-<br />
+### Address
+KAIST N1-ITC Building Room:211, Yuseong-gu, Daejeon, South Korea
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d306141.380212437!2d126.3453416664724!3d33.3711157139061!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x350ce3544cc84045%3A0x66bc36d2981ebf31!2sJeju-do%2C+South+Korea!5e0!3m2!1sen!2sus!4v1473136714592" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3212.4493615431848!2d127.363447915073!3d36.37411439926784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35654bcb6deebfb5%3A0x905962e9ba4daa68!2sKAIST+N1!5e0!3m2!1sen!2skr!4v1520275189993" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-
-<div class = "titled-image">
-<figure class = "titled-image">
-    <img src = "{{ site.url }}/images/arda.png">
-    <figcaption>Lei Mao at Smoky Mountain in 2015</figcaption>
-</figure>
-</div>
 
 
