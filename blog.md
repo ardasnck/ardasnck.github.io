@@ -7,7 +7,7 @@ tags: [blog]
 comments: false
 ---
 ### E-mail
-Please e-mail me at <a href="mailto:arda.senocak@gmail.com"> for questions and discussions. 
+Please e-mail me at <a href="mailto:arda.senocak@gmail.com">arda.senocak@gmail.com</a> for questions and discussions. 
 
 ### Address
 KAIST N1-ITC Building Room:211, Yuseong-gu, Daejeon, South Korea
