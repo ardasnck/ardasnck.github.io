@@ -8,7 +8,7 @@ image: banner1.png
 **My recent activities**
 
 * **06-04-2018 One paper is accepted to CVPR 2018 Workshops** <br>
-"Part-based Player Identification using Deep Convolutional Representation and Multi-scale Pooling" is accepted to 4th International Workshop on Computer Vision in Sports (CVsports) at CVPR 2018.
+"Part-based Player Identification using Deep Convolutional Representation and Multi-scale Pooling" is accepted as <b>Oral paper</b> to 4th International Workshop on Computer Vision in Sports (CVsports) at CVPR 2018.
 
 * **19-02-2018 One paper is accepted to CVPR 2018** <br>
 "Learning to Localize Sound Source in Visual Scenes" is accepted to CVPR2018, Salt Lake City.
