@@ -17,7 +17,7 @@ Accepted to <a href="http://iplab.dmi.unict.it/icvss2018/Home">International Com
 "Part-based Player Identification using Deep Convolutional Representation and Multi-scale Pooling" is accepted as <b>Oral paper</b> to <a href="http://www.vap.aau.dk/cvsports/">4th International Workshop on Computer Vision in Sports (CVsports)</a> at CVPR 2018.
 
 * **19-02-2018 One paper is accepted to CVPR 2018** <br>
-"Learning to Localize Sound Source in Visual Scenes" is accepted to CVPR2018, Salt Lake City.
+"Learning to Localize Sound Source in Visual Scenes" is accepted to CVPR 2018, Salt Lake City.
 
 * **10-02-2018 New Website:** <br>
 Finally, my personal page is up and running!
