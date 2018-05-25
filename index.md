@@ -11,7 +11,7 @@ image: banner1.png
 "On Learning Association of Sound Source and Visual Scenes" is accepted as <b>Oral paper</b> to <a href="http://sightsound.org/">Sight and Sound Workshop</a> at CVPR 2018. 
 
 * **16-04-2018 Selected to participate the ICVSS 2018** <br>
-Accepted to <a href="http://iplab.dmi.unict.it/icvss2018/Home">International Computer Vision Summer School 2018</a> in Sicily, Italy.
+Selected to <a href="http://iplab.dmi.unict.it/icvss2018/Home">International Computer Vision Summer School 2018</a> in Sicily, Italy.
 
 * **06-04-2018 One paper is accepted to CVPR 2018 Workshops** <br>
 "Part-based Player Identification using Deep Convolutional Representation and Multi-scale Pooling" is accepted as <b>Oral paper</b> to <a href="http://www.vap.aau.dk/cvsports/">4th International Workshop on Computer Vision in Sports (CVsports)</a> at CVPR 2018.
