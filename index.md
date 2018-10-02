@@ -7,6 +7,8 @@ image: banner1.png
 ---
 **My recent activities**
 
+* **07-09-2018 Received Qualcomm Innovation Award 2018 🎉🎉🎉** <br>
+
 * **16-05-2018 Paper accepted to CVPR 2018 Sight and Sound Workshop** <br>
 "On Learning Association of Sound Source and Visual Scenes" is accepted as <b>Oral paper</b> to <a href="http://sightsound.org/">Sight and Sound Workshop</a> at CVPR 2018. 
 
