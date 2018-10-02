@@ -20,9 +20,6 @@ Selected to <a href="http://iplab.dmi.unict.it/icvss2018/Home">International Com
 
 * **19-02-2018 One paper is accepted to CVPR 2018** <br>
 "Learning to Localize Sound Source in Visual Scenes" is accepted to CVPR 2018, Salt Lake City.
-<!--
-* **10-02-2018 New Website:** <br>
-Finally, my personal page is up and running!-->
 
 **Who am I?**
 <br>
