@@ -7,6 +7,8 @@ image: banner1.png
 ---
 **My recent activities**
 
+* **07-01-2019 Joined to Samsung AI Center @Samsung Research America (SRA), Mountain View-California as a Research Intern** <br>
+
 * **07-09-2018 Received Qualcomm Innovation Award 2018 🎉🎉🎉** <br>
 
 * **16-05-2018 Paper accepted to CVPR 2018 Sight and Sound Workshop** <br>
