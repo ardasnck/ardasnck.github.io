@@ -7,6 +7,9 @@ image: banner1.png
 ---
 **My recent activities**
 
+* **19-10-2019 One paper is accepted to TPAMI** <br>
+"Learning to Localize Sound Source in Visual Scenes: Analysis and Applications" is accepted to the Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
+
 * **07-01-2019 Joined to Samsung AI Center @Samsung Research America (SRA), Mountain View-California as a Research Intern** <br>
 
 * **07-09-2018 Received Qualcomm Innovation Award 2018 🎉🎉🎉** <br>
