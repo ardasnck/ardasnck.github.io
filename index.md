@@ -7,6 +7,8 @@ image: banner1.png
 ---
 **My recent activities**
 
+* **01-03-2020 I will be joining Adobe Research, Seattle as a Research Intern for summer 2020!** <br>
+
 * **19-10-2019 One paper is accepted to TPAMI** <br>
 "Learning to Localize Sound Source in Visual Scenes: Analysis and Applications" is accepted to the Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 
