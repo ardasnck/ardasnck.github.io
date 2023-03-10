@@ -1,0 +1,31 @@
+- company: KAIST Multimodal AI Lab
+  description: Postdoctoral Research Associate
+  dates: "September 2022 - Current"
+  location: Daejeon, S. Korea
+
+- company: Adobe Research
+  description: >-
+    Research Intern with <a href="https://dingzeyu.li/">Dingzeyu Li</a>. Internship is canceled due to COVID-19. However, it is converted to Remote Collaboration Program.
+    Worked on <a href=https://openaccess.thecvf.com/content/WACV2023/papers/Senocak_Event-Specific_Audio-Visual_Fusion_Layers_A_Simple_and_New_Perspective_on_WACV_2023_paper.pdf>Causality Analysis in Audiovisual Understanding</a>.
+  dates: "Sep 2020 - March 2021"
+  location: Seattle, WA, USA
+
+- company: Samsung Research America
+  description: >-
+    Research Intern at the AI Team.
+    Worked on audio-visual video synchronization.
+  dates: "Jan 2019 - July 2019"
+  location: Mountain View, CA, USA
+
+- company: Kiswe Mobile
+  description: >-
+    Computer Vision Summer Intern.
+    Worked on Sports Player Identification and Tracking in Sports Videos.
+  dates: "June 2014 - Sep 2014"
+  location: New Jersey, USA
+
+- company: LG Electronics
+  description: Summer Intern.
+  Android Application Development on Several Mobile Devices and Google TV for LG Smart Green Home System
+  dates: "June 2012 - Aug 2012"
+  location: Seoul, Korea

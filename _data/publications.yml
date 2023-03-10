@@ -1,0 +1,144 @@
+- id: sound2scene
+  title: "Sound to Visual Scene Generation by Audio-to-Visual Latent Alignment"
+  venue: CVPR, 2023
+  #description: ""
+  project_page: -
+  github: -
+  arxiv: -
+  image: hypernerf_before.jpg
+  image_mouseover: hypernerf_after.mp4
+  authors:
+    - sbkim
+    - arda
+    - hyunwoo
+    - aowens
+    - thoh
+
+- id: vgs
+  title: "Hindi As a Second Language: Improving Visually Grounded Speech with Semantically Similar Samples"
+  venue: ICASSP, 2023
+  #description: ""
+  project_page: -
+  arxiv: -
+  image: fignerf_before.jpg
+  image_mouseover: fignerf_after.mp4
+  authors:
+    - gonhy*
+    - arda*
+    - joonson
+
+- id: marginNCE
+  title: "MarginNCE: Robust Sound Localization with a Negative Margin"
+  venue: ICASSP, 2023
+  #description: ""
+  project_page: -
+  github: -
+  arxiv: -
+  image: nerfies_before.jpg
+  image_mouseover: nerfies_after.mp4
+  authors:
+    - sypark*
+    - arda*
+    - joonson
+
+- id: avFusion
+  title: "Event-Specific Audio-Visual Fusion Layers: A Simple and New Perspective on Video Understanding"
+  venue: WACV, 2023
+  #description: ""
+  project_page: -
+  github: -
+  arxiv: -
+  image: latentfusion_before.jpg
+  image_mouseover: latentfusion_after.mp4
+  authors:
+    - arda*
+    - jskim*
+    - thoh
+    - ding
+    - iskweon
+
+- id: hardpos
+  title: "Learning Sound Localization Better from Semantically Similar Samples"
+  venue: ICASSP, 2022
+  #description: ""
+  project_page: -
+  github: -
+  arxiv: -
+  image: photoshape.jpg
+  authors:
+    - arda*
+    - gonhy*
+    - jskim*
+    - iskweon
+  awards:
+    - "Oral Presentation"
+    - "Short Version at Sight and Sound Workshop @ CVPR 2022"
+
+- id: lcbm
+  title: "Less Can Be More: Sound Source Localization With a Classification Model"
+  venue: WACV, 2022
+  #description: ""
+  project_page: -
+  github: -
+  arxiv: -
+  image: photoshape.jpg
+  authors:
+    - arda*
+    - gonhy*
+    - jskim*
+    - iskweon
+  awards:
+    - "Received Honorable Mention, 28th HumanTech Paper Award, Samsung Electronics Co., Ltd. ($2000)"
+
+- id: tpamiSoundLocalization
+  title: "Learning to Localize Sound Source in Visual Scenes: Analysis and Applications"
+  venue: TPAMI, 2019
+  #description: ""
+  project_page: -
+  github: -
+  arxiv: -
+  image: photoshape.jpg
+  authors:
+    - arda
+    - thoh
+    - jskim
+    - mhyang
+    - iskweon
+  awards:
+    - "Impact Factor: 24.314"
+
+
+- id: cvprSoundLocalization
+  title: "Learning to Localize Sound Source in Visual Scenes"
+  venue: CVPR, 2018
+  #description: ""
+  project_page: -
+  github: -
+  arxiv: -
+  image: photoshape.jpg
+  authors:
+    - arda
+    - thoh
+    - jskim
+    - mhyang
+    - iskweon
+  awards:
+    - "Received Qualcomm Innovation Awards ($5000)"
+    - "Invited to VisionMeetsCognition @ CVPR 2018"
+    - "Short Version at Sight and Sound Workshop @ CVPR 2018"
+
+- id: sportsID
+  title: "Part-based Player Identification using Deep Convolutional Representation and Multi-scale Pooling"
+  venue: CVSports Workshop @CVPR , 2018
+  #description: ""
+  project_page: -
+  github: -
+  arxiv: -
+  image: photoshape.jpg
+  authors:
+    - arda
+    - thoh
+    - jskim
+    - iskweon
+  awards:
+    - "Oral Paper"
