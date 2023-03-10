@@ -23,8 +23,8 @@
   image: fignerf_before.jpg
   image_mouseover: fignerf_after.mp4
   authors:
-    - gonhy*
-    - arda*
+    - gonhy
+    - arda
     - joonson
 
 - id: marginNCE
@@ -37,8 +37,8 @@
   image: nerfies_before.jpg
   image_mouseover: nerfies_after.mp4
   authors:
-    - sypark*
-    - arda*
+    - sypark
+    - arda
     - joonson
 
 - id: avFusion
@@ -51,8 +51,8 @@
   image: latentfusion_before.jpg
   image_mouseover: latentfusion_after.mp4
   authors:
-    - arda*
-    - jskim*
+    - arda
+    - jskim
     - thoh
     - ding
     - iskweon
@@ -66,9 +66,9 @@
   arxiv: ""
   image: photoshape.jpg
   authors:
-    - arda*
-    - gonhy*
-    - jskim*
+    - arda
+    - gonhy
+    - jskim
     - iskweon
   awards:
     - "Oral Presentation"
@@ -83,9 +83,9 @@
   arxiv: ""
   image: photoshape.jpg
   authors:
-    - arda*
-    - gonhy*
-    - jskim*
+    - arda
+    - gonhy
+    - jskim
     - iskweon
   awards:
     - "Received Honorable Mention, 28th HumanTech Paper Award, Samsung Electronics Co., Ltd. ($2000)"
