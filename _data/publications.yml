@@ -24,8 +24,11 @@
 #   image_mouseover: fignerf_after.mp4
   authors:
     - gonhy
-    - arda*
+    - arda
     - joonson
+  eq:
+    - gonhy
+    - arda
 
 - id: marginNCE
   title: "MarginNCE: Robust Sound Localization with a Negative Margin"
