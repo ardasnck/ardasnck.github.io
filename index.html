@@ -126,7 +126,10 @@ layout: null
               {% for author_id in publication.authors %}
               {% assign author = site.data.authors[author_id] %}
               <span class="author-block {% if author.is_me %}author-me{% endif %}">
-                {% if author.is_me %}
+                {% if author.is_me and author.first_name contains "*"%}
+                {{ author.first_name }} {{author.middle_name}} {{ author.last_name }}{% if forloop.last == false %},{%
+                endif %}
+                {% elsif author.is_me %}
                 {{ author.first_name }} {{author.middle_name}} {{ author.last_name }}{% if forloop.last == false %},{%
                 endif %}
                 {% else %}
