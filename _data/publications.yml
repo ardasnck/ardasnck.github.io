@@ -29,6 +29,8 @@
   eq:
     - gonhy
     - arda
+  awards:
+    - "(* Equal Contribution)"
 
 - id: marginNCE
   title: "MarginNCE: Robust Sound Localization with a Negative Margin"
@@ -46,6 +48,8 @@
   eq:
     - sypark
     - arda
+  awards:
+    - "(* Equal Contribution)"
 
 - id: avFusion
   title: "Event-Specific Audio-Visual Fusion Layers: A Simple and New Perspective on Video Understanding"
@@ -65,6 +69,8 @@
   eq:
     - arda
     - jskim
+  awards:
+    - "(* Equal Contribution)"
 
 - id: hardpos
   title: "Learning Sound Localization Better from Semantically Similar Samples"
@@ -80,7 +86,7 @@
     - jskim
     - iskweon
   awards:
-    - "Oral Presentation"
+    - "Oral Presentation (* Equal Contribution)"
   eq:
     - arda
     - gonhy
@@ -103,6 +109,8 @@
     - arda
     - gonhy
     - jskim
+  awards:
+    - "(* Equal Contribution)"
 
 - id: tpamiSoundLocalization
   title: "Learning to Localize Sound Source in Visual Scenes: Analysis and Applications"
