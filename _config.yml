@@ -33,7 +33,7 @@ url: "https://ardasnck.github.io/" # the base hostname & protocol for your site,
 twitter_username: ardasnck
 github_username: ardasnck
 google_scholar: ivZrAU0AAAAJ
-google_analytics: -
+# google_analytics: -
 
 # Build settings
 theme: minima
