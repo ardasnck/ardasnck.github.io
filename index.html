@@ -133,6 +133,10 @@ layout: null
                 {{ author.first_name }} {{author.middle_name}} {{ author.last_name }}{% if forloop.last == false %},{%
                 endif %}
                 {% else %}
+                {% if publication.eq contains author_id %}
+                <a href="{{ author.website }}">{{ author.first_name }} {{ author.middle_name }} {{ author.last_name | append: '*'
+                  }}</a>{% if forloop.last == false %},{% endif %}
+                {% else %}
                 <a href="{{ author.website }}">{{ author.first_name }} {{ author.middle_name }} {{ author.last_name
                   }}</a>{% if forloop.last == false %},{% endif %}
                 {% endif %}
