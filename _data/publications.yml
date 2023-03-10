@@ -5,8 +5,8 @@
   project_page: ""
   github: ""
   arxiv: ""
-  image: hypernerf_before.jpg
-  image_mouseover: hypernerf_after.mp4
+  image: arda.png
+#   image_mouseover: hypernerf_after.mp4
   authors:
     - sbkim
     - arda
@@ -20,8 +20,8 @@
   #description: ""
   project_page: ""
   arxiv: ""
-  image: fignerf_before.jpg
-  image_mouseover: fignerf_after.mp4
+  image: arda.png
+#   image_mouseover: fignerf_after.mp4
   authors:
     - gonhy
     - arda
@@ -34,8 +34,8 @@
   project_page: ""
   github: ""
   arxiv: ""
-  image: nerfies_before.jpg
-  image_mouseover: nerfies_after.mp4
+  image: arda.png
+#   image_mouseover: nerfies_after.mp4
   authors:
     - sypark
     - arda
@@ -48,8 +48,8 @@
   project_page: ""
   github: ""
   arxiv: ""
-  image: latentfusion_before.jpg
-  image_mouseover: latentfusion_after.mp4
+  image: arda.png
+#   image_mouseover: latentfusion_after.mp4
   authors:
     - arda
     - jskim
@@ -64,7 +64,7 @@
   project_page: ""
   github: ""
   arxiv: ""
-  image: photoshape.jpg
+  image: arda.png
   authors:
     - arda
     - gonhy
@@ -81,7 +81,7 @@
   project_page: ""
   github: ""
   arxiv: ""
-  image: photoshape.jpg
+  image: arda.png
   authors:
     - arda
     - gonhy
@@ -97,7 +97,7 @@
   project_page: ""
   github: ""
   arxiv: ""
-  image: photoshape.jpg
+  image: arda.png
   authors:
     - arda
     - thoh
@@ -115,7 +115,7 @@
   project_page: ""
   github: ""
   arxiv: ""
-  image: photoshape.jpg
+  image: arda.png
   authors:
     - arda
     - thoh
@@ -134,7 +134,7 @@
   project_page: ""
   github: ""
   arxiv: ""
-  image: photoshape.jpg
+  image: arda.png
   authors:
     - arda
     - thoh
