@@ -5,7 +5,7 @@
   project_page: ""
   github: ""
   arxiv: ""
-  image: arda.png
+  image: sound2scene.png
 #   image_mouseover: hypernerf_after.mp4
   authors:
     - sbkim
@@ -20,7 +20,7 @@
   #description: ""
   project_page: ""
   arxiv: ""
-  image: arda.png
+  image: vgs.png
 #   image_mouseover: fignerf_after.mp4
   authors:
     - gonhy
@@ -39,7 +39,7 @@
   project_page: ""
   github: ""
   arxiv: ""
-  image: arda.png
+  image: marginNCE.png
 #   image_mouseover: nerfies_after.mp4
   authors:
     - sypark
@@ -58,7 +58,7 @@
   project_page: ""
   github: ""
   arxiv: ""
-  image: arda.png
+  image: avFusion.png
 #   image_mouseover: latentfusion_after.mp4
   authors:
     - arda
@@ -79,7 +79,7 @@
   project_page: ""
   github: ""
   arxiv: ""
-  image: arda.png
+  image: hardpos.png
   authors:
     - arda
     - gonhy
@@ -99,7 +99,7 @@
   project_page: ""
   github: ""
   arxiv: ""
-  image: arda.png
+  image: lcbm.png
   authors:
     - arda
     - gonhy
@@ -119,7 +119,7 @@
   project_page: ""
   github: ""
   arxiv: ""
-  image: arda.png
+  image: tpamiSoundLocalization.png
   authors:
     - arda
     - thoh
