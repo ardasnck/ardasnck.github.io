@@ -1,3 +1,22 @@
+- id: flexiast
+  title: "FlexiAST: Flexibility is What AST Needs"
+  venue: INTERSPEECH, 2023
+  #description: ""
+  project_page: ""
+  arxiv: ""
+  image: flexiast.png
+#   image_mouseover: fignerf_after.mp4
+  authors:
+    - jiu
+    - hamza
+    - joonson
+    - arda
+  eq:
+    - jiu
+    - hamza
+  awards:
+    - "(* Corresponding Author)"
+
 - id: sound2scene
   title: "Sound to Visual Scene Generation by Audio-to-Visual Latent Alignment"
   venue: CVPR, 2023
