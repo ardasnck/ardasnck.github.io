@@ -15,7 +15,7 @@
     - jiu
     - hamza
   awards:
-    - "(* Corresponding Author)"
+    - "(Corresponding Author)"
 
 - id: sound2scene
   title: "Sound to Visual Scene Generation by Audio-to-Visual Latent Alignment"
