@@ -21,9 +21,9 @@
   title: "Sound to Visual Scene Generation by Audio-to-Visual Latent Alignment"
   venue: CVPR, 2023
   #description: ""
-  project_page: ""
+  project_page: "https://sound2scene.github.io/"
   github: ""
-  arxiv: ""
+  arxiv: "https://arxiv.org/pdf/2303.17490.pdf"
   image: sound2scene.png
 #   image_mouseover: hypernerf_after.mp4
   authors:
