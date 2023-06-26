@@ -23,7 +23,7 @@
   #description: ""
   project_page: "https://sound2scene.github.io/"
   github: ""
-  arxiv: "2303.17490"
+  arxiv: "https://arxiv.org/pdf/2303.17490.pdf"
   image: sound2scene.png
 #   image_mouseover: hypernerf_after.mp4
   authors:
