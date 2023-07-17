@@ -1,3 +1,26 @@
+- id: iccvSoundLocalization
+  title: "Sound Source Localization is All about Cross-Modal Alignment"
+  venue: ICCV, 2023
+  #description: ""
+  project_page: ""
+  github: ""
+  arxiv: ""
+  image: iccvSoundLocalization.png
+#   image_mouseover: hypernerf_after.mp4
+  authors:
+    - arda
+    - gonhy
+    - jskim
+    - thoh
+    - pfister
+    - joonson
+  eq:
+    - arda
+    - gonhy
+    - jskim
+  awards:
+    - "(* Equal Contribution)"
+
 - id: flexiast
   title: "FlexiAST: Flexibility is What AST Needs"
   venue: INTERSPEECH, 2023
