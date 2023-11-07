@@ -1,3 +1,22 @@
+- id: wacvCLIPSoundLocalization
+  title: "Can CLIP Help Sound Source Localization?"
+  venue: WACV, 2024
+  #description: ""
+  project_page: ""
+  github: ""
+  arxiv: ""
+  image: clipSoundLocalization.jpg
+#   image_mouseover: nerfies_after.mp4
+  authors:
+    - sypark
+    - arda
+    - joonson
+  eq:
+    - sypark
+    - arda
+  awards:
+    - "(* Equal Contribution)"
+    
 - id: iccvSoundLocalization
   title: "Sound Source Localization is All about Cross-Modal Alignment"
   venue: ICCV, 2023
