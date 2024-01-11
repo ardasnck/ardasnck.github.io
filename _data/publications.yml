@@ -45,7 +45,7 @@
   venue: INTERSPEECH, 2023
   #description: ""
   project_page: "https://github.com/JiuFengSC/FlexiAST_INTERSPEECH23"
-  github: "https://github.com/JiuFengSC/FlexiAST_INTERSPEECH23"
+  github: "JiuFengSC/FlexiAST_INTERSPEECH23"
   arxiv: "https://arxiv.org/abs/2307.09286"
   image: flexiast.png
 #   image_mouseover: fignerf_after.mp4
@@ -65,7 +65,7 @@
   venue: CVPR, 2023
   #description: ""
   project_page: "https://sound2scene.github.io/"
-  github: "https://github.com/postech-ami/Sound2Scene"
+  github: "postech-ami/Sound2Scene"
   arxiv: "https://arxiv.org/pdf/2303.17490.pdf"
   image: sound2scene.png
 #   image_mouseover: hypernerf_after.mp4
@@ -180,7 +180,7 @@
   venue: TPAMI, 2019
 #   description: 
   project_page: "https://github.com/ardasnck/learning_to_localize_sound_source"
-  github: "https://github.com/ardasnck/learning_to_localize_sound_source"
+  github: "ardasnck/learning_to_localize_sound_source"
   arxiv: "https://arxiv.org/pdf/1911.09649.pdf"
   image: tpamiSoundLocalization.png
   authors:
@@ -198,7 +198,7 @@
   venue: CVPR, 2018
   description: "Invited talk at VisionMeetsCognition @ CVPR 2018 and Short Version at Sight and Sound Workshop @ CVPR 2018"
   project_page: "https://github.com/ardasnck/learning_to_localize_sound_source"
-  github: "https://github.com/ardasnck/learning_to_localize_sound_source"
+  github: "ardasnck/learning_to_localize_sound_source"
   arxiv: "https://arxiv.org/pdf/1803.03849.pdf"
   image: cvprSoundLocalization.png
   authors:
