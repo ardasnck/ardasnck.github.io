@@ -2,9 +2,9 @@
   title: "Can CLIP Help Sound Source Localization?"
   venue: WACV, 2024
   #description: ""
-  project_page: ""
-  github: ""
-  arxiv: ""
+  project_page: "https://huggingface.co/spaces/swimmiing/ACL-SSL-zeroshot-demo"
+  github: "https://github.com/swimmiing/ACL-SSL"
+  arxiv: "https://arxiv.org/abs/2311.04066"
   image: clipSoundLocalization.jpg
 #   image_mouseover: nerfies_after.mp4
   authors:
@@ -23,7 +23,7 @@
   #description: ""
   project_page: ""
   github: ""
-  arxiv: ""
+  arxiv: "https://arxiv.org/pdf/2309.10724.pdf"
   image: iccvSoundLocalization.png
 #   image_mouseover: hypernerf_after.mp4
   authors:
@@ -44,8 +44,9 @@
   title: "FlexiAST: Flexibility is What AST Needs"
   venue: INTERSPEECH, 2023
   #description: ""
-  project_page: ""
-  arxiv: ""
+  project_page: "https://github.com/JiuFengSC/FlexiAST_INTERSPEECH23"
+  github: "https://github.com/JiuFengSC/FlexiAST_INTERSPEECH23"
+  arxiv: "https://arxiv.org/abs/2307.09286"
   image: flexiast.png
 #   image_mouseover: fignerf_after.mp4
   authors:
@@ -64,7 +65,7 @@
   venue: CVPR, 2023
   #description: ""
   project_page: "https://sound2scene.github.io/"
-  github: ""
+  github: "https://github.com/postech-ami/Sound2Scene"
   arxiv: "https://arxiv.org/pdf/2303.17490.pdf"
   image: sound2scene.png
 #   image_mouseover: hypernerf_after.mp4
@@ -178,9 +179,9 @@
   title: "Learning to Localize Sound Source in Visual Scenes: Analysis and Applications"
   venue: TPAMI, 2019
 #   description: 
-  project_page: ""
-  github: ""
-  arxiv: ""
+  project_page: "https://github.com/ardasnck/learning_to_localize_sound_source"
+  github: "https://github.com/ardasnck/learning_to_localize_sound_source"
+  arxiv: "https://arxiv.org/pdf/1911.09649.pdf"
   image: tpamiSoundLocalization.png
   authors:
     - arda
@@ -196,9 +197,9 @@
   title: "Learning to Localize Sound Source in Visual Scenes"
   venue: CVPR, 2018
   description: "Invited talk at VisionMeetsCognition @ CVPR 2018 and Short Version at Sight and Sound Workshop @ CVPR 2018"
-  project_page: ""
-  github: ""
-  arxiv: ""
+  project_page: "https://github.com/ardasnck/learning_to_localize_sound_source"
+  github: "https://github.com/ardasnck/learning_to_localize_sound_source"
+  arxiv: "https://arxiv.org/pdf/1803.03849.pdf"
   image: cvprSoundLocalization.png
   authors:
     - arda
