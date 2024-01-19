@@ -1,3 +1,23 @@
+- id: coarse2fine
+  title: "From Coarse to Fine: Efficient Training for Audio Spectrogram Transformers"
+  venue: ICASSP, 2024
+  #description: ""
+  project_page: "https://github.com/JiuFengSC/FlexiAST_INTERSPEECH23"
+  github: "JiuFengSC/FlexiAST_INTERSPEECH23"
+  arxiv: "https://arxiv.org/abs/2401.08415"
+  image: coarse2fine.png
+#   image_mouseover: fignerf_after.mp4
+  authors:
+    - jiu
+    - hamza
+    - joonson
+    - arda
+  eq:
+    - jiu
+    - hamza
+  awards:
+    - "(Corresponding Author)"
+    
 - id: wacvCLIPSoundLocalization
   title: "Can CLIP Help Sound Source Localization?"
   venue: WACV, 2024
