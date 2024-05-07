@@ -1,3 +1,18 @@
+- id: mimVGS
+  title: "Speech Guided Masked Image Modeling for Visually Grounded Speech"
+  venue: ICASSP, 2024
+  #description: ""
+  project_page: "https://ieeexplore.ieee.org/abstract/document/10447235"
+  github: "https://ieeexplore.ieee.org/abstract/document/10447235"
+  arxiv: "https://ieeexplore.ieee.org/abstract/document/10447235"
+  image: mimVGS.png
+#   image_mouseover: fignerf_after.mp4
+  authors:
+    - jongbin
+    - gonhy
+    - arda
+    - joonson
+    
 - id: coarse2fine
   title: "From Coarse to Fine: Efficient Training for Audio Spectrogram Transformers"
   venue: ICASSP, 2024
