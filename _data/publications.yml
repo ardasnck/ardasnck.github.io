@@ -1,3 +1,20 @@
+- id: elasticast
+  title: "ElasticAST: An Audio Spectrogram Transformer for All Length and Resolutions"
+  venue: INTERSPEECH, 2024
+  #description: ""
+  project_page: ""
+  github: ""
+  arxiv: ""
+  image: elasticAST.png
+#   image_mouseover: fignerf_after.mp4
+  authors:
+    - jiu
+    - hamza
+    - joonson
+    - arda
+  awards:
+    - "(Corresponding Author)"
+    
 - id: mimVGS
   title: "Speech Guided Masked Image Modeling for Visually Grounded Speech"
   venue: ICASSP, 2024
