@@ -4,7 +4,7 @@
   #description: ""
   project_page: ""
   github: ""
-  arxiv: ""
+  arxiv: "https://jiufengsc.github.io/files/ElasticAST.pdf"
   image: elasticAST.png
 #   image_mouseover: fignerf_after.mp4
   authors:
