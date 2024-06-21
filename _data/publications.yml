@@ -1,3 +1,23 @@
+- id: audioMamba
+  title: "Audio Mamba: Bidirectional State Space Model for Audio Representation Learning"
+  venue: ArXiv, 2024
+  #description: ""
+  project_page: ""
+  github: "kaistmm/Audio-Mamba-AuM"
+  arxiv: "https://arxiv.org/pdf/2406.03344"
+  image: audioMamba.png
+#   image_mouseover: fignerf_after.mp4
+  authors:
+    - hamza
+    - arda
+    - jiu
+    - joonson
+  eq:
+    - hamza
+    - arda
+  awards:
+    - "(* Equal Contribution)"
+    
 - id: elasticast
   title: "ElasticAST: An Audio Spectrogram Transformer for All Length and Resolutions"
   venue: INTERSPEECH, 2024
