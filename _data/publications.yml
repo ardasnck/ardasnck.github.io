@@ -2,7 +2,7 @@
   title: "Audio Mamba: Bidirectional State Space Model for Audio Representation Learning"
   venue: ArXiv, 2024
   #description: ""
-  project_page: ""
+  project_page: "https://github.com/kaistmm/Audio-Mamba-AuM"
   github: "kaistmm/Audio-Mamba-AuM"
   arxiv: "https://arxiv.org/pdf/2406.03344"
   image: audioMamba.png
@@ -22,9 +22,9 @@
   title: "ElasticAST: An Audio Spectrogram Transformer for All Length and Resolutions"
   venue: INTERSPEECH, 2024
   #description: ""
-  project_page: ""
-  github: ""
-  arxiv: "https://jiufengsc.github.io/files/ElasticAST.pdf"
+  project_page: "https://github.com/jiufengsc/elasticast"
+  github: "jiufengsc/elasticast"
+  arxiv: "https://arxiv.org/pdf/2407.08691v1"
   image: elasticAST.png
 #   image_mouseover: fignerf_after.mp4
   authors:
