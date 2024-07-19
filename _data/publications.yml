@@ -1,3 +1,26 @@
+- id: SSLalignment
+  title: "Aligning Sight and Sound: Advanced Sound Source Localization Through Audio-Visual Alignment"
+  venue: ArXiv, 2024
+  #description: ""
+  project_page: "https://github.com/kaistmm/SSLalignment"
+  github: "kaistmm/SSLalignment"
+  arxiv: "https://arxiv.org/pdf/2407.13676"
+  image: SSLalignment.png
+#   image_mouseover: hypernerf_after.mp4
+  authors:
+    - arda
+    - gonhy
+    - jskim
+    - thoh
+    - pfister
+    - joonson
+  eq:
+    - arda
+    - gonhy
+    - jskim
+  awards:
+    - "(* Equal Contribution)"
+    
 - id: audioMamba
   title: "Audio Mamba: Bidirectional State Space Model for Audio Representation Learning"
   venue: ArXiv, 2024
