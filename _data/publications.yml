@@ -23,7 +23,7 @@
     
 - id: audioMamba
   title: "Audio Mamba: Bidirectional State Space Model for Audio Representation Learning"
-  venue: ArXiv, 2024
+  venue: SPL (Signal Processing Letters), 2024
   #description: ""
   project_page: "https://github.com/kaistmm/Audio-Mamba-AuM"
   github: "kaistmm/Audio-Mamba-AuM"
