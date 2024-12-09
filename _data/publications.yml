@@ -9,11 +9,14 @@
 #   image_mouseover: fignerf_after.mp4
   authors:
     - sbkim
-    - gonhy
-    - gonhy
+    - hyunbin
+    - jungmok
     - arda
     - joonson
     - thoh
+  eq:
+    - sbkim
+    - hyunbin
     
 - id: SSLalignment
   title: "Aligning Sight and Sound: Advanced Sound Source Localization Through Audio-Visual Alignment"
