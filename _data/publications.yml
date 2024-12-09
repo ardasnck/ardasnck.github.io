@@ -1,3 +1,20 @@
+- id: avhbench
+  title: "AVHBench: A Cross-Modal Hallucination Benchmark for Audio-Visual Large Language Models"
+  venue: ArXiv, 2024
+  #description: ""
+  project_page: "https://github.com/AVHBench/AVHBench"
+  github: "AVHBench/AVHBench"
+  arxiv: "https://arxiv.org/pdf/2410.18325"
+  image: avhbench.png
+#   image_mouseover: fignerf_after.mp4
+  authors:
+    - sbkim
+    - gonhy
+    - gonhy
+    - arda
+    - joonson
+    - thoh
+    
 - id: SSLalignment
   title: "Aligning Sight and Sound: Advanced Sound Source Localization Through Audio-Visual Alignment"
   venue: ArXiv, 2024
