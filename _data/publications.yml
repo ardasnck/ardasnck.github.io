@@ -1,3 +1,18 @@
+- id: sound2vision
+  title: "Sound2Vision: Generating Diverse Visuals from Audio through Cross-Modal Latent Alignment"
+  venue: ArXiv, 2024
+  #description: ""
+  project_page: "https://sound2scene.github.io/"
+  github: "postech-ami/Sound2Scene"
+  arxiv: "https://arxiv.org/pdf/2412.06209"
+  image: combined2.png
+#   image_mouseover: fignerf_after.mp4
+  authors:
+    - sbkim
+    - arda
+    - hyunwoo
+    - thoh
+    
 - id: avhbench
   title: "AVHBench: A Cross-Modal Hallucination Benchmark for Audio-Visual Large Language Models"
   venue: ArXiv, 2024
