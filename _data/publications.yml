@@ -15,7 +15,7 @@
     
 - id: avhbench
   title: "AVHBench: A Cross-Modal Hallucination Benchmark for Audio-Visual Large Language Models"
-  venue: ArXiv, 2024
+  venue: ICLR, 2025
   #description: ""
   project_page: "https://github.com/AVHBench/AVHBench"
   github: "AVHBench/AVHBench"
