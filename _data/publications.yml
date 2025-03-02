@@ -35,7 +35,7 @@
     
 - id: SSLalignment
   title: "Aligning Sight and Sound: Advanced Sound Source Localization Through Audio-Visual Alignment"
-  venue: ArXiv, 2024
+  venue: TPAMI, 2024 (Minor Revision)
   #description: ""
   project_page: "https://github.com/kaistmm/SSLalignment"
   github: "kaistmm/SSLalignment"
