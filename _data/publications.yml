@@ -35,7 +35,7 @@
     
 - id: SSLalignment
   title: "Aligning Sight and Sound: Advanced Sound Source Localization Through Audio-Visual Alignment"
-  venue: TPAMI, 2024 (Minor Revision)
+  venue: TPAMI, 2024
   #description: ""
   project_page: "https://github.com/kaistmm/SSLalignment"
   github: "kaistmm/SSLalignment"
@@ -54,7 +54,7 @@
     - gonhy
     - jskim
   awards:
-    - "(* Equal Contribution)"
+    - "(Minor Revision) (* Equal Contribution)"
     
 - id: audioMamba
   title: "Audio Mamba: Bidirectional State Space Model for Audio Representation Learning"
