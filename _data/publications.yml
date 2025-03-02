@@ -24,12 +24,12 @@
 #   image_mouseover: fignerf_after.mp4
   authors:
     - gonhy
-    - hyunbin
+    - seon
     - joonson
     - arda
   eq:
     - gonhy
-    - hyunbin
+    - seon
     
 - id: avhbench
   title: "AVHBench: A Cross-Modal Hallucination Benchmark for Audio-Visual Large Language Models"
