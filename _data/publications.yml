@@ -30,6 +30,8 @@
   eq:
     - gonhy
     - seon
+  awards:
+    - "(Corresponding Author)"
     
 - id: avhbench
   title: "AVHBench: A Cross-Modal Hallucination Benchmark for Audio-Visual Large Language Models"
