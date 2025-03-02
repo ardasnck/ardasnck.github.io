@@ -12,6 +12,24 @@
     - arda
     - hyunwoo
     - thoh
+
+- id: localizeSimul
+  title: "Seeing Speech and Sound: Distinguishing and Locating Audios in Visual Scenes"
+  venue: CVPR, 2025
+  #description: ""
+  project_page: "https://sites.google.com/view/seeing-speech-and-sound"
+  github: ""
+  arxiv: "https://sites.google.com/view/seeing-speech-and-sound"
+  image: avhbench.png
+#   image_mouseover: fignerf_after.mp4
+  authors:
+    - gonhy
+    - hyunbin
+    - joonson
+    - arda
+  eq:
+    - gonhy
+    - hyunbin
     
 - id: avhbench
   title: "AVHBench: A Cross-Modal Hallucination Benchmark for Audio-Visual Large Language Models"
