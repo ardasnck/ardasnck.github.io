@@ -23,11 +23,11 @@ name: Arda Senocak
 position: Postdoctoral Research Associate
 email: arda.senocak@gmail.com
 description: >-
-  I am a Postdoctoral Research Associate working with [Joon Son Chung](https://mm.kaist.ac.kr/joon/) at [Multimodal AI Lab](https://mmai.io/) @ KAIST. I am interested in Audio-Visual Learning and Understanding.
+  I am an Assistant Research Professor at the School of Electrical Engineering, KAIST.
+  
+  Previously, I was a postdoctoral researcher at KAIST, working with with [Joon Son Chung](https://mm.kaist.ac.kr/joon/) at [Multimodal AI Lab](https://mmai.io/). I completed my Ph.D. at [KAIST](https://www.kaist.ac.kr/en/), advised by [In So Kweon](http://rcv.kaist.ac.kr/index.php?mid=rcv_faculty&document_srl=5579).
 
-
-  Previously, I was a Ph. D student at [KAIST](https://www.kaist.ac.kr/en/) advised by
-  [In So Kweon](http://rcv.kaist.ac.kr/index.php?mid=rcv_faculty&document_srl=5579).
+  I am interested in Audio-Visual Learning and Understanding.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ardasnck.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ardasnck
