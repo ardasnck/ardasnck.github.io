@@ -319,7 +319,7 @@
 
 - id: tpamiSoundLocalization
   title: "Learning to Localize Sound Source in Visual Scenes: Analysis and Applications"
-  venue: TPAMI, 2019
+  venue: TPAMI, 2021
 #   description: 
   project_page: "https://github.com/ardasnck/learning_to_localize_sound_source"
   github: "ardasnck/learning_to_localize_sound_source"
