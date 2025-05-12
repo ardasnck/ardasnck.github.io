@@ -12,6 +12,29 @@
     - arda
     - hyunwoo
     - thoh
+    
+- id: SSLalignment
+  title: "Aligning Sight and Sound: Advanced Sound Source Localization Through Audio-Visual Alignment"
+  venue: TPAMI, 2025
+  #description: ""
+  project_page: "https://github.com/kaistmm/SSLalignment"
+  github: "kaistmm/SSLalignment"
+  arxiv: "https://arxiv.org/pdf/2407.13676"
+  image: SSLalignment.png
+#   image_mouseover: hypernerf_after.mp4
+  authors:
+    - arda
+    - gonhy
+    - jskim
+    - thoh
+    - pfister
+    - joonson
+  eq:
+    - arda
+    - gonhy
+    - jskim
+  awards:
+    - "(* Equal Contribution) Impact Factor: 20.8"
 
 - id: localizeSimul
   title: "Seeing Speech and Sound: Distinguishing and Locating Audios in Visual Scenes"
@@ -52,29 +75,6 @@
   eq:
     - sbkim
     - hyunbin
-    
-- id: SSLalignment
-  title: "Aligning Sight and Sound: Advanced Sound Source Localization Through Audio-Visual Alignment"
-  venue: TPAMI, 2025
-  #description: ""
-  project_page: "https://github.com/kaistmm/SSLalignment"
-  github: "kaistmm/SSLalignment"
-  arxiv: "https://arxiv.org/pdf/2407.13676"
-  image: SSLalignment.png
-#   image_mouseover: hypernerf_after.mp4
-  authors:
-    - arda
-    - gonhy
-    - jskim
-    - thoh
-    - pfister
-    - joonson
-  eq:
-    - arda
-    - gonhy
-    - jskim
-  awards:
-    - "(* Equal Contribution) Impact Factor: 20.8"
     
 - id: audioMamba
   title: "Audio Mamba: Bidirectional State Space Model for Audio Representation Learning"
