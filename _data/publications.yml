@@ -12,6 +12,25 @@
     - arda
     - hyunwoo
     - thoh
+
+- id: clip_ssl
+  title: "Hearing and Seeing Through CLIP: A Framework for Self-Supervised Sound Source Localization"
+  venue: ArXiv, 2025
+  #description: ""
+  project_page: "https://huggingface.co/spaces/swimmiing/ACL-SSL-zeroshot-demo"
+  github: "swimmiing/ACL-SSL"
+  arxiv: "https://arxiv.org/pdf/2505.05343"
+  image: clip_ssl.png
+#   image_mouseover: fignerf_after.mp4
+  authors:
+    - sypark
+    - arda
+    - joonson
+  eq:
+    - sypark
+    - arda
+  awards:
+    - "(* Equal Contribution)"
     
 - id: SSLalignment
   title: "Aligning Sight and Sound: Advanced Sound Source Localization Through Audio-Visual Alignment"
