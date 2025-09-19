@@ -24,11 +24,13 @@ position: Postdoctoral Research Associate
 email: arda.senocak@gmail.com
 # description: >-
 description: | 
-  I am an Research Assistant Professor at the School of Electrical Engineering, KAIST and [Multimodal AI Lab](https://mmai.io/).
-  
-  Previously, I was a postdoctoral researcher at KAIST, working with with [Joon Son Chung](https://mm.kaist.ac.kr/joon/) at [Multimodal AI Lab](https://mmai.io/). I completed my Ph.D. at [KAIST](https://www.kaist.ac.kr/en/), advised by [In So Kweon](http://rcv.kaist.ac.kr/index.php?mid=rcv_faculty&document_srl=5579).
+I am an Assistant Professor in the Graduate School of Artificial Intelligence and the Department of Computer Science and Engineering at UNIST. 
 
-  I am interested in Audio-Visual Learning and Understanding.
+Before joining UNIST, I spent three wonderful years at the [Multimodal AI Lab](https://mmai.io/) at KAIST. From 2022 to 2025, I was a Postdoctoral Research Associate in the School of Electrical Engineering at KAIST, working with [Prof. Joon Son Chung](https://mm.kaist.ac.kr/joon/). I later worked as a Research Assistant Professor in the same department. 
+
+I earned both my Ph.D. and M.S. degrees from the School of Electrical Engineering at KAIST under the supervision of Prof. In So Kweon, and received my B.S. degree in Computer Science, also from KAIST.
+
+My research interests center around multimodal learning, with a particular focus on building machine perception models capable of learning from visual, auditory, and other sensory inputs to effectively engage with their surroundings.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ardasnck.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ardasnck
