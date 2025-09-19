@@ -30,7 +30,7 @@ description: |
   
   I earned both my Ph.D. and M.S. degrees from the School of Electrical Engineering at KAIST under the supervision of Prof. In So Kweon, and received my B.S. degree in Computer Science, also from KAIST.
 
-  My research interests center around multimodal learning, with a particular focus on building machine perception models capable of learning from visual, auditory, and other sensory inputs to effectively engage with their surroundings.
+  My research focuses on multimodal learning, particularly on developing machine perception models that can learn from visual, auditory, and other sensory inputs to effectively interact with the world around them.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ardasnck.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ardasnck
