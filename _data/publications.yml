@@ -31,6 +31,26 @@
     - arda
   awards:
     - "(* Equal Contribution)"
+
+- id: mgaudio
+  title: "Model-Guided Dual-Role Alignment for High-Fidelity Open-Domain Video-to-Audio Generation"
+  venue: NeurIPS, 2025
+  #description: ""
+  project_page: "https://github.com/pantheon5100/mgaudio"
+  github: "pantheon5100/mgaudio"
+  arxiv: "https://arxiv.org/pdf/2510.24103"
+  image: mgaudio.png
+#   image_mouseover: fignerf_after.mp4
+  authors:
+    - kang
+    - trung
+    - suyeon
+    - axi
+    - arda
+    - joonson
+  eq:
+    - kang
+    - trung
     
 - id: SSLalignment
   title: "Aligning Sight and Sound: Advanced Sound Source Localization Through Audio-Visual Alignment"
