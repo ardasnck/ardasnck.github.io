@@ -13,6 +13,24 @@
     - hyunwoo
     - thoh
 
+- id: localizeTouch
+  title: "Seeing Through Touch: Tactile-Driven Visual Localization of Material Regions"
+  venue: CVPR, 2026
+  #description: ""
+  project_page: "https://google.com"
+  github: ""
+  arxiv: "https://google.com"
+  image: localizeTouch.png
+#   image_mouseover: fignerf_after.mp4
+  authors:
+    - seon
+    - swoo
+    - gonhy
+    - joonson
+    - arda
+  awards:
+    - "(Corresponding Author)"
+
 - id: clip_ssl
   title: "Hearing and Seeing Through CLIP: A Framework for Self-Supervised Sound Source Localization"
   venue: IJCV, 2025
