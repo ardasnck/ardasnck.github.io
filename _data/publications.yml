@@ -30,6 +30,26 @@
     - arda
   awards:
     - "(Corresponding Author)"
+    
+- id: synthetic_ssl
+  title: "How Far Can We Go With Synthetic Data for Audio-Visual Sound Source Localization?"
+  venue: CVPR, 2026
+  #description: ""
+  project_page: "https://google.com"
+  github: ""
+  arxiv: "https://google.com"
+  image: synthetic_ssl.png
+#   image_mouseover: fignerf_after.mp4
+  authors:
+    - arda
+    - sypark
+    - thoh
+    - joonson
+  eq:
+    - arda
+    - sypark
+  awards:
+    - "(* Equal Contribution)"
 
 - id: clip_ssl
   title: "Hearing and Seeing Through CLIP: A Framework for Self-Supervised Sound Source Localization"
