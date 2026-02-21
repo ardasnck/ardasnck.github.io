@@ -51,6 +51,26 @@
   awards:
     - "(* Equal Contribution)"
 
+- id: avCASS
+  title: "Cinematic Audio Source Separation Using Visual Cues"
+  venue: CVPR, 2026
+  #description: ""
+  project_page: "https://google.com"
+  github: ""
+  arxiv: "https://google.com"
+  image: avCASS.png
+#   image_mouseover: fignerf_after.mp4
+  authors:
+    - kang
+    - suyeon
+    - arda
+    - joonson
+  eq:
+    - kang
+    - suyeon
+  awards:
+    - "(Co-Corresponding Author)"
+
 - id: clip_ssl
   title: "Hearing and Seeing Through CLIP: A Framework for Self-Supervised Sound Source Localization"
   venue: IJCV, 2025
