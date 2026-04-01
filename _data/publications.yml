@@ -55,9 +55,9 @@
   title: "Cinematic Audio Source Separation Using Visual Cues"
   venue: CVPR, 2026
   #description: ""
-  project_page: "https://google.com"
-  github: ""
-  arxiv: "https://google.com"
+  project_page: "https://cass-flowmatching.github.io"
+  github: "pantheon5100/AVCASS"
+  arxiv: "https://arxiv.org/pdf/2603.26113"
   image: avCASS.png
 #   image_mouseover: fignerf_after.mp4
   authors:
