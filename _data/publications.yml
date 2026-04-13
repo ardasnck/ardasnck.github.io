@@ -17,9 +17,9 @@
   title: "Seeing Through Touch: Tactile-Driven Visual Localization of Material Regions"
   venue: CVPR, 2026
   #description: ""
-  project_page: "https://google.com"
-  github: ""
-  arxiv: "https://google.com"
+  project_page: "https://mm.kaist.ac.kr/projects/SeeingThroughTouch/"
+  github: "kaistmm/SeeingThroughTouch"
+  arxiv: "https://mm.kaist.ac.kr/pubs/pdfs/kim26a.pdf"
   image: localizeTouch.png
 #   image_mouseover: fignerf_after.mp4
   authors:
