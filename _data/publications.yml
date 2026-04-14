@@ -19,7 +19,7 @@
   #description: ""
   project_page: "https://mm.kaist.ac.kr/projects/SeeingThroughTouch/"
   github: "kaistmm/SeeingThroughTouch"
-  arxiv: "https://mm.kaist.ac.kr/pubs/pdfs/kim26a.pdf"
+  arxiv: "https://arxiv.org/pdf/2604.11579"
   image: localizeTouch.png
 #   image_mouseover: fignerf_after.mp4
   authors:
