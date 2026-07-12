@@ -53,9 +53,9 @@
   title: "How Far Can We Go With Synthetic Data for Audio-Visual Sound Source Localization?"
   venue: CVPR, 2026
   description: "Selected as Highlight Paper ⭐"
-  project_page: "https://google.com"
-  github: ""
-  arxiv: "https://google.com"
+  project_page: "https://github.com/swimmiing/SyntheticSSL"
+  github: "swimmiing/SyntheticSSL"
+  arxiv: "https://openaccess.thecvf.com/content/CVPR2026/papers/Senocak_How_Far_Can_We_Go_With_Synthetic_Data_for_Audio-Visual_CVPR_2026_paper.pdf"
   image: synthetic_ssl.png
 #   image_mouseover: fignerf_after.mp4
   authors:
