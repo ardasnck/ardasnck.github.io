@@ -34,12 +34,6 @@
 - date: January 2025
   description:  One paper is accepted to ICLR 2025.
   
-- date: June 2024
-  description:  AudioMamba is released!
-  
-- date: June 2024
-  description:  One paper is accepted to INTERSPEECH 2024.
-  
 - date: December 2023
   description:  Two papers are accepted to ICASSP 2024.
   
@@ -51,9 +45,6 @@
   
 - date: July 2023
   description: One paper is accepted to ICCV 2023.
-  
-- date: May 2023
-  description: FlexiAST is accepted to INTERSPEECH 2023.
 
 - date: Jan 2023
   description: Sound2Scene is accepted to CVPR 2023.
