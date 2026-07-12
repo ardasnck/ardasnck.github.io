@@ -13,6 +13,24 @@
     - hyunwoo
     - thoh
 
+- id: seeSniff
+  title: "See & Sniff: Learning Visuo-Olfactory Representations"
+  venue: ECCV, 2026
+  #description: ""
+  project_page: "https://mm.kaist.ac.kr/projects/SeeandSniff/"
+  github: "kaistmm/SeeandSniff"
+  arxiv: "https://arxiv.org/abs/2606.27307"
+  image: see_sniff.jpg
+#   image_mouseover: fignerf_after.mp4
+  authors:
+    - seon
+    - swoo
+    - gonhy
+    - joonson
+    - arda
+  awards:
+    - "(Corresponding Author)"
+    
 - id: localizeTouch
   title: "Seeing Through Touch: Tactile-Driven Visual Localization of Material Regions"
   venue: CVPR, 2026
