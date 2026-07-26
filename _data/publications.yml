@@ -16,7 +16,7 @@
 - id: seeSniff
   title: "See & Sniff: Learning Visuo-Olfactory Representations"
   venue: ECCV, 2026
-  #description: ""
+  description: "Selected as Oral Paper ⭐"
   project_page: "https://mm.kaist.ac.kr/projects/SeeandSniff/"
   github: "kaistmm/SeeandSniff"
   arxiv: "https://arxiv.org/abs/2606.27307"
