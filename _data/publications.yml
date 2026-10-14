@@ -1,6 +1,6 @@
 - id: sound2vision
   title: "Sound2Vision: Generating Diverse Visuals from Audio through Cross-Modal Latent Alignment"
-  venue: ArXiv, 2024
+  venue: IJCV, 2026
   #description: ""
   project_page: "https://sound2scene.github.io/"
   github: "postech-ami/Sound2Scene"
